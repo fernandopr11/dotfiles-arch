@@ -1,6 +1,6 @@
 # Qtile
 
-![Qtile](../../.screenshots/qtile.png)
+![qtile](https://user-images.githubusercontent.com/76860968/134098140-4fc8e00c-bed4-40af-aaa3-a464c83b8c72.png)
 
 ***Language***
 - [🇪🇸 Español](./README.es.md)
