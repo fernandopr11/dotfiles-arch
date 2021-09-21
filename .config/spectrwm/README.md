@@ -1,6 +1,6 @@
 # Spectrwm
 
-![Spectrwm](../../.screenshots/spectrwm.png)
+![spec](https://user-images.githubusercontent.com/76860968/134098831-717badd1-fcc3-4d35-80f3-60692c86278a.png)
 
 ***Idioma***
 - [🇪🇸 Español](./README.es.md)
