@@ -1,1 +1,1 @@
-![bspw](https://user-images.githubusercontent.com/76860968/138736832-b3134ee8-938f-4fd5-bd39-63748521483e.png)
+![Ubuntu](https://user-images.githubusercontent.com/76860968/140549874-a8372941-339c-40ad-b636-9535f998dcc1.png)
