@@ -59,8 +59,7 @@ Para comprobar que Qtile de alta de forma correcta ejetutamos el siguiente coman
 ls /usr/share/xsessions
 
 ```
-![entradaQtile](https://user-images.githubusercontent.com/76860968/140796500-c18b4c0c-7079-49e7-9ffd-ea57bbc1a279.png)
- 
+Para optimizar el proceso de instalacion ejecuta el siguiente **[script](https://github.com/fernandopr11/dotfiles-fernando/blob/ubuntu/install-qtile.sh)**
 
 
 
