@@ -59,7 +59,14 @@ Para comprobar que Qtile de alta de forma correcta ejetutamos el siguiente coman
 ls /usr/share/xsessions
 
 ```
-Para optimizar el proceso de instalacion ejecuta el siguiente **[script](https://github.com/fernandopr11/dotfiles-fernando/blob/ubuntu/install-qtile.sh)**
+Para optimizar el proceso de instalacion ejecuta el siguiente **[script](https://github.com/fernandopr11/dotfiles-fernando/blob/ubuntu/install-qtile.sh)**, es necesario asignarle permisos de ejecucion mediante el siguiente comando:
+
+```bash
+
+chmod u+x install-qtile.sh
+
+```
+
 
 
 
