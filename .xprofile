@@ -1,0 +1,16 @@
+# Env vars
+export PATH=$HOME/.local/bin:$PATH
+# Composer
+picom &
+# Network
+nm-applet &
+# Keyboard Layout
+setxkbmap en &
+# Automount Devices
+udiskie -t &
+# Wallpaper
+feh --bg-scale Wallpapers/10.png &
+
+# Screens
+#!/bin/sh
+xrandr --output eDP1 --primary --mode 1920x1080 --pos 1920x0 --rotate normal --output DP1 --off --output HDMI1 --off --output HDMI2 --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off &
